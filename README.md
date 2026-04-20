@@ -1,6 +1,8 @@
 ## Hi, Mats Magnem here 👋
-
-🧔‍♂️ Mats Magnem | 🎓 Bachelor IT | 💼 Devtec Norway AS | 🌍 Moss, Norway  
+![](https://img.shields.io/static/v1?label=🧔‍♂️&message=Mats%20Magnem&labelColor=ffffff&color=124e92&style=social)&nbsp;&nbsp;&nbsp;
+![](https://img.shields.io/static/v1?label=💼&message=Devtec%20Norway%20AS&labelColor=ffffff&color=124e92&style=social)&nbsp;&nbsp;&nbsp;
+![](https://img.shields.io/static/v1?label=🎓&message=Bachelor%20IT&labelColor=ffffff&color=124e92&style=social)&nbsp;&nbsp;&nbsp;
+![](https://img.shields.io/static/v1?label=🌍&message=Moss,%20Norway&labelColor=ffffff&color=124e92&style=social)  
 ![](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=5B5B5B&color=124e92&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dmatsmagnem&longCache=true)
 ![](https://komarev.com/ghpvc/?username=matsmagnem&color=124e92)
 
@@ -11,9 +13,15 @@ Senior programmer and co-owner of **Devtec Norway AS**. I have been in the progr
 When I'm not at work, I am a father of three kids. I play guitar in **The Sleeper Service** and I watch too much woodworking videos on YouTube.
 
 ### Technologies I use
-- 📚 C# / .NET
-- 📚 Vue 3 with Vite and TypeScript
-- 📚 Flutter with Dart
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) 
+![Vue JS](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) 
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) 
+![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white) 
 
 ### Links
 - 💼 [Devtec Norway AS](https://devtec.no)
