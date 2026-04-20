@@ -7,7 +7,7 @@
 ![](https://komarev.com/ghpvc/?username=matsmagnem&color=124e92)
 
 ### Me at work
-Senior programmer and co-owner of **Devtec Norway AS**. I have been in the programming business since 2001. I am a developer, that is what I like. I work with the full stack, from database and backend APIs and Auth to frontend web and some mobile apps. My strength is the backend code.
+Senior programmer and co-owner of [**Devtec Norway AS**](https://devtec.no). I have been in the programming business since 2001. I am a developer, that is what I like. I work with the full stack, from database and backend APIs and Auth to frontend web and some mobile apps. My strength is the backend code.
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) 
 ![Vue JS](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) 
@@ -22,15 +22,15 @@ Senior programmer and co-owner of **Devtec Norway AS**. I have been in the progr
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white) 
 
 ### Me in private
-When I'm not at work, I am a father of three kids. I play guitar in **The Sleeper Service** and I watch too much woodworking videos on YouTube.
-
-### Links
-- 💼 [Devtec Norway AS](https://devtec.no)
-- 🎵 [The Sleeper Service: Music](https://linktr.ee/tssband)
+When I'm not at work, I am a father of three kids. I play guitar in [**The Sleeper Service**](https://linktr.ee/tssband) and I watch too much woodworking videos on YouTube.
 
 <!--[![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=hollow77&show_user=header)](https://www.last.fm/user/hollow77)-->
 [![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=thehollow)](https://open.spotify.com/artist/1mWm9UzUjnzcmq0AJ33pWG)
 <!--[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=thehollow&cover_image=true&theme=default&show_offline=false&background_color=212121&interchange=true&profanity=false)](https://open.spotify.com/artist/1mWm9UzUjnzcmq0AJ33pWG)-->
+
+
+
+
 
 <!--
 ![](https://img.shields.io/static/v1?message=Mats%20Magnem&color=5B5B5B&labelColor=124e92&style=plastic&logo=appveyor)
