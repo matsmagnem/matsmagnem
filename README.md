@@ -9,10 +9,6 @@
 ### Me at work
 Senior programmer and co-owner of **Devtec Norway AS**. I have been in the programming business since 2001. I am a developer, that is what I like. I work with the full stack, from database and backend APIs and Auth to frontend web and some mobile apps. My strength is the backend code.
 
-### Me in private
-When I'm not at work, I am a father of three kids. I play guitar in **The Sleeper Service** and I watch too much woodworking videos on YouTube.
-
-### Technologies I use
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) 
 ![Vue JS](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) 
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E) 
@@ -24,6 +20,9 @@ When I'm not at work, I am a father of three kids. I play guitar in **The Sleepe
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) 
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white) 
+
+### Me in private
+When I'm not at work, I am a father of three kids. I play guitar in **The Sleeper Service** and I watch too much woodworking videos on YouTube.
 
 ### Links
 - 💼 [Devtec Norway AS](https://devtec.no)
