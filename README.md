@@ -12,7 +12,7 @@ When I'm not at work, I am a father of three kids. I play guitar in **The Sleepe
 ### Technologies I use
 - 📚 C# / .NET
 - 📚 Vue 3 with Vite and TypeScript
-- 📚 Flutter
+- 📚 Flutter with Dart
 
 ### Links
 - 💼 [Devtec Norway AS](https://devtec.no)
