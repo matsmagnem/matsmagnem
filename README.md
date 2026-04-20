@@ -24,6 +24,10 @@ When I'm not at work, I am a father of three kids. I play guitar in **The Sleepe
 <!--[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=thehollow&cover_image=true&theme=default&show_offline=false&background_color=212121&interchange=true&profanity=false)](https://open.spotify.com/artist/1mWm9UzUjnzcmq0AJ33pWG)-->
 
 <!--
+![](https://img.shields.io/static/v1?message=Mats%20Magnem&color=5B5B5B&labelColor=124e92&style=plastic&logo=appveyor)
+![](https://img.shields.io/badge/Mats%20Magnem-5B5B5B?logo=github)
+-->
+<!--
 ### My GitHub contributions summary
 ![](https://github-readme-stats.vercel.app/api?username=matsmagnem&hide_border=true&hide_title=true&show_icons=true&icon_color=007dba&text_bold=false&title_color=124e92&text_color=202020&theme=default)
 
