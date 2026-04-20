@@ -21,7 +21,7 @@ When I'm not at work, I am a father of three kids. I play guitar in **The Sleepe
 
 <!--![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=hollow77&show_user=header)-->
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=thehollow)
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=thehollow&cover_image=true&theme=default&show_offline=false&background_color=212121&interchange=false&profanity=false)](https://open.spotify.com/artist/1mWm9UzUjnzcmq0AJ33pWG)
+<!--[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=thehollow&cover_image=true&theme=default&show_offline=false&background_color=212121&interchange=true&profanity=false)](https://open.spotify.com/artist/1mWm9UzUjnzcmq0AJ33pWG)-->
 
 <!--
 ### My GitHub contributions summary
