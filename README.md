@@ -1,5 +1,5 @@
 ## Hi, Mats Magnem here 👋
-![](https://img.shields.io/static/v1?label=🧔‍♂️&message=Mats%20Magnem&labelColor=ffffff&color=124e92&style=social)&nbsp;&nbsp;&nbsp;
+![](https://img.shields.io/static/v1?label=👱&message=Mats%20Magnem&labelColor=ffffff&color=124e92&style=social)&nbsp;&nbsp;&nbsp;
 ![](https://img.shields.io/static/v1?label=💼&message=Devtec%20Norway%20AS&labelColor=ffffff&color=124e92&style=social)&nbsp;&nbsp;&nbsp;
 ![](https://img.shields.io/static/v1?label=🎓&message=Bachelor%20IT&labelColor=ffffff&color=124e92&style=social)&nbsp;&nbsp;&nbsp;
 ![](https://img.shields.io/static/v1?label=🌍&message=Moss,%20Norway&labelColor=ffffff&color=124e92&style=social)  
