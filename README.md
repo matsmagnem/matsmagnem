@@ -7,7 +7,7 @@
 ![](https://komarev.com/ghpvc/?username=matsmagnem&color=124e92)
 
 ### Me at work
-Senior programmer and co-owner of [**Devtec Norway AS**](https://devtec.no). I have been in the programming business since 2001. I am a developer, that is what I like. I work with the full stack, from database and backend APIs and Auth to frontend web and some mobile apps. My strength is the backend code.
+Senior programmer and co-owner of [**Devtec Norway AS**](https://github.com/devtecinc). I have been in the programming business since 2001. I am a developer, that is what I like. I work with the full stack, from database and backend APIs and Auth to frontend web and some mobile apps. My strength is the backend code.
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) 
 ![Vue JS](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) 
