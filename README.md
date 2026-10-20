@@ -23,14 +23,6 @@ Senior programmer and co-owner of [**Devtec Norway AS**](https://github.com/devt
 ### Me in private
 When I'm not at work, I am a father of three kids. I play guitar in [**The Sleeper Service**](https://linktr.ee/tssband) and I watch too much woodworking videos on YouTube.
 
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=thehollow)](https://open.spotify.com/artist/1mWm9UzUjnzcmq0AJ33pWG)
-[![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=hollow77&show_user=header)](https://www.last.fm/user/hollow77)
-
-<!--[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=thehollow&cover_image=true&theme=default&show_offline=false&background_color=212121&interchange=true&profanity=false)](https://open.spotify.com/artist/1mWm9UzUjnzcmq0AJ33pWG)-->
-
-
-
-
 
 <!--
 ![](https://img.shields.io/static/v1?message=Mats%20Magnem&color=5B5B5B&labelColor=124e92&style=plastic&logo=appveyor)
